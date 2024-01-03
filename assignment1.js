@@ -4,7 +4,7 @@
 
 let fruits = [];
 
-//adding fruits to the array
+//adding elements to the array
 fruits.push("apple", "banana", "orange");
 
 //removing first element from the array using pre-defined function called "shift()" in arrays
