@@ -13,5 +13,5 @@ fruits.shift();
 fruits.push("grape");
 
 //updating second element
-fruits.splice(1, 1, "pear");
+fruits[1] = "pear";
 console.log(fruits);
