@@ -1,7 +1,6 @@
 /*  DAY-1, Assignment-3 - Array of Objects Operations
     Description - Practice adding, removing, and updating values in an objects */
 
-
 let cars = [];
 
 //adding objects to the array
