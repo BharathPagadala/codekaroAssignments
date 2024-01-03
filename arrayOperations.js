@@ -1,7 +1,6 @@
 /*  DAY-1, Assignment-1 - Array Operations
     Description - Practice adding, removing, and updating values in an arrays */
 
-
 let fruits = [];
 
 //adding elements to the array
